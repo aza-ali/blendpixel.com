@@ -1,6 +1,6 @@
 # blendpixel.com
 
-<video src="https://github.com/user-attachments/assets/384590a6-2b0f-47c5-b313-07aea8554aed" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/9a889027-30c3-44fa-882a-1ed8058e037c" controls width="100%"></video>
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
