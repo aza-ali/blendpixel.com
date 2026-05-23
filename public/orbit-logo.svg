@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="512" x2="512" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FCAF45"/>
+      <stop offset="20%" stop-color="#F77737"/>
+      <stop offset="45%" stop-color="#F56040"/>
+      <stop offset="70%" stop-color="#E1306C"/>
+      <stop offset="100%" stop-color="#C13584"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background with Instagram gradient -->
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+
+  <!-- Orbit trail -->
+  <path d="M 160,190 A 125,125 0 1 0 336,174"
+        stroke="white" stroke-width="28" fill="none"
+        stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Rocket -->
+  <g transform="translate(210, 150) rotate(55)">
+    <path d="M 0,-58 C 6,-48 19,-26 19,8 L 19,32 L -19,32 L -19,8 C -19,-26 -6,-48 0,-58 Z" fill="white"/>
+    <path d="M -19,16 L -34,44 L -17,34 Z" fill="white"/>
+    <path d="M 19,16 L 34,44 L 17,34 Z" fill="white"/>
+  </g>
+</svg>

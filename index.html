@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/blendpixel-favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="BlendPixel builds workflow products: Orbit for social ops, Retina for screen recording, and Listval for planning + habits. Fast, focused software." />
+
+    <title>BlendPixel — Orbit, Retina & Listval</title>
+
+    <!-- Fix Chrome prerendering CSS issue (from Chrome Web Store navigation) -->
+    <script>
+      if (document.prerendering) {
+        document.documentElement.style.visibility = 'hidden';
+        document.addEventListener('prerenderingchange', function() {
+          document.documentElement.style.visibility = '';
+          void document.documentElement.offsetHeight;
+        }, { once: true });
+      }
+    </script>
+
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
