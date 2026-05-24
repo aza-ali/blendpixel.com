@@ -16,7 +16,7 @@ Built with React 19, Tailwind, and Motion. Open source so you can study it, fork
 
 ## Prerequisites
 
-You'll need **[Node.js](https://nodejs.org)** version 20 or higher. Check with `node --version` in your terminal (Terminal on Mac, Command Prompt on Windows). If you see something like `v20.x.x`, you're set.
+You'll need **<a href="https://nodejs.org"><img src="./text/nodejs.svg" align="absmiddle" alt="Node.js" /></a>** version 20 or higher. Check with `node --version` in your terminal (Terminal on Mac, Command Prompt on Windows). If you see something like `v20.x.x`, you're set.
 
 ## Run locally
 
@@ -54,6 +54,6 @@ You'll need **[Node.js](https://nodejs.org)** version 20 or higher. Check with `
 
 ## Licensing
 
-Code is MIT-licensed (see [LICENSE](./LICENSE)).
+Code is MIT-licensed (see <a href="./LICENSE"><img src="./text/license.svg" align="absmiddle" alt="LICENSE" /></a>).
 
 The names **BlendPixel**, **Retina**, **Orbit**, and **Listval** and their associated logos are not licensed under MIT. Forks must use their own name and branding.
