@@ -1,4 +1,4 @@
-# blendpixel.com
+# [![blendpixel.com](./text/blendpixel-com.svg)](https://blendpixel.com)
 
 <video src="https://github.com/user-attachments/assets/9a889027-30c3-44fa-882a-1ed8058e037c" controls width="100%"></video>
 
