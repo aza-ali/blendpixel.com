@@ -41,7 +41,7 @@ You'll need **<a href="https://nodejs.org"><img src="./text/nodejs.svg" align="a
    npm run dev
    ```
 
-5. Open **http://localhost:5173** in your browser. Any changes you make to the code show up instantly.
+5. Open **<a href="http://localhost:5173"><img src="./text/localhost.svg" align="absmiddle" alt="http://localhost:5173" /></a>** in your browser. Any changes you make to the code show up instantly.
 
 ## What's in here
 
